@@ -13,37 +13,42 @@ section:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Installation, configuring and managing of production-grade Kubernetes clusters. Solid knowledge of key areas of Kubernetes as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting and API object primitives."
+  summary: "Installation, configuring and managing of production-grade Kubernetes clusters. Capable of deploying and managing applications on Kubernetes. Experience with deployment and management of Kubernetes Clusters in the cloud and on-premise."
   url: "https://kubernetes.io/"
 
 - name: Python Development
   logo: /images/sections/skills/python.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: "Using Python as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  url: "https://python.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major public cloud providers such as GCP, AWS and Azure. Also experienced with VMware hybrid-cloud solutions and OpenStack private cloud."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+# - name: Docker
+#   logo: /images/sections/skills/docker.svg
+#   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+#   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: IaC
+  logo: /images/sections/skills/download.png
+  summary: "Experienced with CI/CD pipelines and main tools, implementing the DevOps lifecycle as part of an organization and automating Infrastructure as Code with Terraform, Ansible and other tools."
+  url: "https://aws.amazon.com/devops/what-is-devops/"
+
+- name: Observability
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Experience with observability tools for metrics, logs and traces to have a better understanding of the system. Use of main public clouds observability and operations suites. Use of self-hosted or managed Prometheus and Grafana solutions."
   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Used as the main operating system. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Use of Github, GitLab, Azure DevOps, JFrog and more."
   url: "https://git-scm.com/"
 
 - name: Data Engineering
   logo: /images/sections/skills/dataengineering.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Creating data pipelines for data processing using CI/CD. Experienced with GCP Dataflow, Cloud Composer, BigQuery and AWS Redshift"

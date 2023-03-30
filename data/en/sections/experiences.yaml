@@ -11,54 +11,73 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Centennial College.
+    url: "https://centennialcollege.com/"
+    location: Toronto, Canada
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: GSI-General Software Inc. is a consulting and software development company with 15 years of experience in Project Outsourcing, Staff Augmentation, Partnership, and IT Consultancy in the North American & European markets. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Research Assistant
+    start: Jan 2023
+    end: Feb 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+    - Designing, building and maintaining Big Data pipelines as code using Gitlab, Terraform, Bash, Google Cloud Build, Azure Devops and AWS CodeBuild and AWS CodePipeline.
+    - Data ingestion and data wrangling using serverless cloud services and architectures in multi cloud environments using Python (Google Cloud Functions, AWS Lambda, Azure Functions, Dataflow, Google Cloud Storage, AWS S3, Azure Blob Storage, Pub/Sub, SQS, Big Query, Redshift, Databricks).
+    - Data processing and transformation using distributed parallel batch and streaming with Python and cloud services (Google Cloud Dataflow, Apache Beam, Apache Kafka, Pub/Sub, SQS).
+    - Creation of Data Lakes and Data Warehouses as data sinks for further processing and analysis (Google Cloud Storage, Google Big Lake, AWS S3, Azure Data Lake, BigQuery, Redshift, Azure Synapse Analytics) 
+  
+- company:
+    name: General Software Inc.
+    url: "https://generalsoftwareinc.com/"
+    location: Florida, US
+    # company overview
+    overview: GSI-General Software Inc. is a consulting and software development company with 15 years of experience in Project Outsourcing, Staff Augmentation, Partnership, and IT Consultancy in the North American & European markets. 
+  positions:
+  - designation: Cloud Data Engineer
+    start: Sept 2021
+    end: Sept 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Designing, building and maintaining Big Data pipelines as code using Gitlab, Terraform, Bash, Google Cloud Build, Azure Devops and AWS CodeBuild and AWS CodePipeline.
+    - Data ingestion and data wrangling using serverless cloud services and architectures in multi cloud environments using Python (Google Cloud Functions, AWS Lambda, Azure Functions, Dataflow, Google Cloud Storage, AWS S3, Azure Blob Storage, Pub/Sub, SQS, Big Query, Redshift, Databricks).
+    - Data processing and transformation using distributed parallel batch and streaming with Python and cloud services (Google Cloud Dataflow, Apache Beam, Apache Kafka, Pub/Sub, SQS).
+    - Creation of Data Lakes and Data Warehouses as data sinks for further processing and analysis (Google Cloud Storage, Google Big Lake, AWS S3, Azure Data Lake, BigQuery, Redshift, Azure Synapse Analytics) 
+  
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: ETECSA
+    url: "https://www.etecsa.cu/en/us/who-are-we"
+    location: Havana, Cuba
+    overview:  Telecommunications Company of Cuba S.A. (ETECSA, for its acronyms in Spanish), is the only telecommunications operator in Cuba providing public services.
+              They guarantee the provision of fixed, mobile, data, internet and cloud services.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Cloud Data Center Engineer
+    start: Sept 2018
+    end: Sept 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Administration of the physical IT infrastructure on several data centers (servers, switches, routers, firewalls, storage arrays) 
+    - Administration of on-premises and private cloud infrastructure (VMware vSphere, Huawei Fusion Sphere OpenStack, VMware Cloud Director, Kubernetes)
+    - Infrastructure as Code development using Terraform, Ansible, bash and python scripting.
+    - Responsible of GitOps adoption for infrastructure deployment using GitLab self-hosted.
+    - Monitoring and observability of all infrastructure in three data centers.
+    - Responsible for creating and implementing the on-premises data-center backup solution.
+    - Working with multiple developer teams in creating testing, delivery and deployment pipelines of internal and user-facing apps in multiple cloud providers.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: EPROYIV
+    url: "https://www.eproyiv.cu"
+    location: Havana, Cuba
+    overview: EPROYIV is responsible for Project Design and Management for Construction Services and Construction business activities. It specializes in the tourism and hotel industry in Cuba.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Communications/IT Solutions Architect Jr
+    start: Sep 2017
+    end:  Sep 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Architecting of traditional telephony communications networks.
+    - Architecting of IT infrastructure and network design for client needs.
+    - Architecting of security systems for fire and intrusion detection.
