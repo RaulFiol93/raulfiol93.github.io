@@ -11,11 +11,13 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Centennial College.
-    url: "https://centennialcollege.com/"
+    name: Centennial College, Applied Research, Innovation and Entrepreneurship Services (ARIES).
+    url: "https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/about-aries#current-areas-of-activities"
     location: Toronto, Canada
     # company overview
-    overview: GSI-General Software Inc. is a consulting and software development company with 15 years of experience in Project Outsourcing, Staff Augmentation, Partnership, and IT Consultancy in the North American & European markets. 
+    overview: Centennial is one of Canada's top colleges for research, innovation, and entrepreneurship. Leading Centennial’s applied research activities is the department of Applied Research, Innovation and Entrepreneurship Services (ARIES), bringing students and faculty together to solve practical industry problems, providing real-world experience in the process.
+
+ 
   positions:
   - designation: Research Assistant
     start: Jan 2023
@@ -24,10 +26,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Designing, building and maintaining Big Data pipelines as code using Gitlab, Terraform, Bash, Google Cloud Build, Azure Devops and AWS CodeBuild and AWS CodePipeline.
-    - Data ingestion and data wrangling using serverless cloud services and architectures in multi cloud environments using Python (Google Cloud Functions, AWS Lambda, Azure Functions, Dataflow, Google Cloud Storage, AWS S3, Azure Blob Storage, Pub/Sub, SQS, Big Query, Redshift, Databricks).
-    - Data processing and transformation using distributed parallel batch and streaming with Python and cloud services (Google Cloud Dataflow, Apache Beam, Apache Kafka, Pub/Sub, SQS).
-    - Creation of Data Lakes and Data Warehouses as data sinks for further processing and analysis (Google Cloud Storage, Google Big Lake, AWS S3, Azure Data Lake, BigQuery, Redshift, Azure Synapse Analytics) 
+    - Develop a high volume production process for IoT devices initialization in batches.
+    - Automation of drive and image cloning using Clonezilla. 
+    - IoT Fleet management with JFrog Connect.
   
 - company:
     name: General Software Inc.
