@@ -14,7 +14,7 @@
   background-attachment: fixed;
   background-position: center;
   transform: scale(1.1);
-  /* filter: blur(1px); */
+  filter: blur(1px);
   background-size: cover;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .home .typing-carousel {
-  font-size: 14pt;
+  font-size: 20pt;
   color: #f0f0f0;
 }
 
@@ -134,12 +134,27 @@
   }
 
   .home .greeting {
-    font-size: 24pt;
+    font-size: 30pt;
   }
 }
 
 /* iPhoneX, iPhone 6,7,8 */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 390px) {
+  .content {
+    position: relative;
+    top: -75%;
+    height: 65%;
+  }
+
+  .home img {
+    width: 140px;
+    max-width: 50%;
+    height: auto;
+  }
+
+  .home .greeting {
+    font-size: 24pt;
+  }
 }
 
 /* Galaxy S5, Moto G4 */
