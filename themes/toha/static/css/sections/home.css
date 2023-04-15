@@ -94,6 +94,21 @@
 
 /* Large screens such as TV */
 @media only screen and (min-width: 1824px) {
+  .content {
+    position: relative;
+    top: -75%;
+    height: 65%;
+  }
+
+  .home img {
+    width: 140px;
+    max-width: 50%;
+    height: auto;
+  }
+
+  .home .greeting {
+    font-size: 30pt;
+  }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */

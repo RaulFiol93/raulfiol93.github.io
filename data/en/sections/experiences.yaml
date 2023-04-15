@@ -26,9 +26,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Develop a high volume production process for IoT devices initialization in batches.
-    - Automation of drive and image cloning using Clonezilla. 
-    - IoT Fleet management with JFrog Connect.
+    - Developed a high-volume production process for IoT device initialization in batches, automating drive and image cloning with Clonezilla and implementing IoT Fleet Management with JFrog Connect, increasing the production to more than 200 devices provisioned per week.
+    - Conducted research on IoT technologies and their potential applications in different fields.
   
 - company:
     name: General Software Inc.
@@ -44,11 +43,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Designing, building and maintaining Big Data pipelines as code using Gitlab, Terraform, Bash, Google Cloud Build, Azure Devops and AWS CodeBuild and AWS CodePipeline.
-    - Data ingestion and data wrangling using serverless cloud services and architectures in multi cloud environments using Python (Google Cloud Functions, AWS Lambda, Azure Functions, Dataflow, Google Cloud Storage, AWS S3, Azure Blob Storage, Pub/Sub, SQS, Big Query, Redshift, Databricks).
-    - Data processing and transformation using distributed parallel batch and streaming with Python and cloud services (Google Cloud Dataflow, Apache Beam, Apache Kafka, Pub/Sub, SQS).
-    - Creation of Data Lakes and Data Warehouses as data sinks for further processing and analysis (Google Cloud Storage, Google Big Lake, AWS S3, Azure Data Lake, BigQuery, Redshift, Azure Synapse Analytics) 
-  
+    - Designed, built, and maintained Big Data pipelines using Gitlab, Terraform, Bash, Google Cloud Build, Azure DevOps, and AWS CodeBuild, resulting in about a 25% reduction in data processing time.
+    - Utilized distributed parallel batch and streaming data processing and transformation with Python and cloud services such as Google Cloud Dataflow, Apache Beam, Apache Kafka, Pub/Sub, and SQS, resulting in data processing speed.
+    - Created Data Lakes and Data Warehouses as data sinks for further processing and analysis using Google Cloud Storage, Google Big Lake, AWS S3, Azure Data Lake, BigQuery, Redshift, and Azure Synapse Analytics, resulting in a 20% increase in data availability and analysis.  
 
 - company:
     name: ETECSA
@@ -61,13 +58,16 @@ experiences:
     start: Sept 2018
     end: Sept 2021
     responsibilities:
-    - Administration of the physical IT infrastructure on several data centers (servers, switches, routers, firewalls, storage arrays) 
-    - Administration of on-premises and private cloud infrastructure (VMware vSphere, Huawei Fusion Sphere OpenStack, VMware Cloud Director, Kubernetes)
+    - Managed the installation, configuration, and maintenance of physical servers, switches, routers, firewalls, and storage arrays across multiple data centers, ensuring high availability and uptime for critical applications and services.
+    - Oversaw the deployment and management of virtualized infrastructure using VMware vSphere, Huawei Fusion Sphere OpenStack, and VMware Cloud Director, enabling faster provisioning and scaling of resources for development and testing teams.
+    - Implemented Kubernetes clusters for container orchestration and management, improving the deployment and scalability of microservices-based applications.
+    - Collaborated with development teams to create testing, delivery, and deployment pipelines using AWS, GCP, and Azure, resulting in faster and more efficient delivery of internal and user-facing applications.
     - Infrastructure as Code development using Terraform, Ansible, bash and python scripting.
-    - Responsible of GitOps adoption for infrastructure deployment using GitLab self-hosted.
-    - Monitoring and observability of all infrastructure in three data centers.
-    - Responsible for creating and implementing the on-premises data-center backup solution.
-    - Working with multiple developer teams in creating testing, delivery and deployment pipelines of internal and user-facing apps in multiple cloud providers.
+    - Conducted regular audits of infrastructure and applications to identify and address security vulnerabilities, ensuring compliance with industry standards and best practices.
+    - Automated the physical IT infrastructure administration using Terraform, Ansible, Bash, and Python scripting, resulting in a 40% increase in efficiency and time savings.
+    - Adopted GitOps for infrastructure deployment using GitLab self-hosted, resulting in a 50% reduction in deployment time.
+    - Improved monitoring and observability of all infrastructure in three data centers, utilizing Elasticsearch, Kibana, Grafana, and Prometheus, and reducing response time to infrastructure incidents by 70% compared to other more traditional and propietary tools like Nagios, CheckMK and Huawei eSight.
+    - Implemented on-premises data-center backup solution, providing a reliable and efficient data backup and restore solution, resulting in a 100% data restoration success rate.
 
 - company:
     name: EPROYIV
@@ -79,6 +79,6 @@ experiences:
     start: Sep 2017
     end:  Sep 2018
     responsibilities:
-    - Architecting of traditional telephony communications networks.
-    - Architecting of IT infrastructure and network design for client needs.
-    - Architecting of security systems for fire and intrusion detection.
+    - Architected traditional telephony communications networks, reducing downtime.
+    - Designed and implemented IT infrastructure and network design for client needs, resulting in increase of customer satisfaction.
+    - Architected security systems for fire and intrusion detection, improving overall security and compliance standards.
