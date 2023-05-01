@@ -19,7 +19,7 @@ designation: Cloud Infrastructure Engineer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Hey there! I'm a cloud engineer with over 6 years of experience in the IT world. I'm all about building cloud and on-premise infrastructure using Infrastructure as Code and CI/CD tools. When I'm not busy being a Python and Bash enthusiast, you can find me working on my software development skills and adding 'Ops' to everything. These days, I'm mostly focused on becoming a K8s master Jedi. Let's take your infrastructure to the next level! ;)"
+summary: "I am a passionate cloud engineer with more than 6 years of working experience in the IT world. I help to build cloud and on-premise infrastructure using Infrastructure as code and CI/CD tools. I'm also a Python and Bash enthusiast trying to polish my software development skills. Adding 'Ops' in everything. These days mostly focused in become a K8s master jedi :)"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -68,13 +68,13 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/4b131d2a-9bde-4c85-babe-202901f71279"
   badge: "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
 
-# - type: certification
-#   name: Istio and IBM Cloud Kubernetes Service
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+- type: certification
+  name: AWS Solutions Architect Professional
+  url: "https://www.credly.com/earner/earned/badge/1756ea78-ab83-4a0f-9e17-e461f12fb520"
+  badge: "https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
 
 # - type: certification
-#   name: Artificial Intelligence and Machine Learning
+#   name: AWS Solutions Architect Professional
 #   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
@@ -98,10 +98,10 @@ badges:
   percentage: 85
   color: green
 
-- type: soft-skill-indicator
-  name: Communication
-  percentage: 85
-  color: pink
+# - type: soft-skill-indicator
+#   name: Communication
+#   percentage: 85
+#   color: pink
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
