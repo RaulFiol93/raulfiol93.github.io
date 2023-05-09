@@ -73,10 +73,10 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/1756ea78-ab83-4a0f-9e17-e461f12fb520"
   badge: "https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
 
-# - type: certification
-#   name: AWS Solutions Architect Professional
-#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+- type: certification
+  name: Certified Kubernetes Administrator
+  url: "https://www.credly.com/badges/d356eba5-7da5-4797-b8a4-348729c8a5c0"
+  badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 
 - type: soft-skill-indicator
   name: Fast Learner
