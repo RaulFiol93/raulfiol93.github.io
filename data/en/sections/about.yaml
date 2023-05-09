@@ -57,7 +57,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/CV.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -65,18 +65,18 @@ resourceLinks:
 badges:
 - type: certification
   name: AWS Solutions Architect Associate
-  url: "https://www.credly.com/badges/b7ba4dc7-5a93-464b-9986-9450bd47ba88"
+  url: "https://www.credly.com/earner/earned/badge/4b131d2a-9bde-4c85-babe-202901f71279"
   badge: "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
 
 - type: certification
   name: AWS Solutions Architect Professional
-  url: "https://www.credly.com/badges/1756ea78-ab83-4a0f-9e17-e461f12fb520"
-  badge: "https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+  url: "https://www.credly.com/earner/earned/badge/1756ea78-ab83-4a0f-9e17-e461f12fb520"
+  badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 
 - type: certification
   name: Certified Kubernetes Administrator
   url: "https://www.credly.com/earner/earned/badge/d356eba5-7da5-4797-b8a4-348729c8a5c0"
-  badge: "https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
   name: Fast Learner
