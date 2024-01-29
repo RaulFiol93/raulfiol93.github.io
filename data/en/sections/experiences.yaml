@@ -11,12 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Swisscom
+    url: "https://www.swisscom.ch/en/about/company.html"
+    location: Rotterdam, The Netherlands
+    # company overview
+    overview: As the leading ICT company in Switzerland and the number 2 in Italy with its subsidiary Fastweb S.p.A., Swisscom is a provider of mobile, Internet, TV and comprehensive IT services for residential and business customers.
+
+  positions:
+  - designation: DevOps Engineer
+    start: Sep 2023
+    # end: Feb 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Interface between users of the internal Enterprise Service Cloud and the platform team responsible for the underlying infrastructure.
+    - Offering the multiple Swisscom’s internal cloud platforms as a fully-integrated, secure and compliant self-service platform to all Swisscom internal DevOps teams.
+
+- company:
     name: Centennial College, Applied Research, Innovation and Entrepreneurship Services (ARIES).
     url: "https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/about-aries#current-areas-of-activities"
     location: Toronto, Canada
     # company overview
     overview: Centennial is one of Canada's top colleges for research, innovation, and entrepreneurship. Leading Centennial’s applied research activities is the department of Applied Research, Innovation and Entrepreneurship Services (ARIES), bringing students and faculty together to solve practical industry problems, providing real-world experience in the process.
-
  
   positions:
   - designation: Research Assistant

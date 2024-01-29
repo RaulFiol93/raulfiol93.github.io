@@ -64,14 +64,24 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: AWS Solutions Architect Associate
-  url: "https://www.credly.com/badges/b7ba4dc7-5a93-464b-9986-9450bd47ba88"
-  badge: "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+  name: AWS Solutions DevOps Engineer Professional
+  url: "https://www.credly.com/earner/earned/badge/190ea775-845a-45e2-86a6-ffbc4bdac41a"
+  badge: "https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
 
 - type: certification
   name: AWS Solutions Architect Professional
   url: "https://www.credly.com/badges/1756ea78-ab83-4a0f-9e17-e461f12fb520"
   badge: "https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+
+- type: certification
+  name: Google Cloud Professional Cloud Architect
+  url: "https://google.accredible.com/32c1c959-b9ca-4501-9b97-622ef9b53792?key=86a8c607bafd39464e37a5290227d4ffa59797e2030c96fac34533ec2e5b745a"
+  badge: "https://templates.images.credential.net/16590181582433100721069374350922.png"
+
+- type: certification
+  name: Microsoft Azure Administrator Associate
+  url: "https://learn.microsoft.com/en-us/users/raulfiolmartinez-5323/credentials/f572059477561035"
+  badge: "https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
 
 - type: certification
   name: Certified Kubernetes Administrator
