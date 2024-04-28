@@ -32,7 +32,7 @@ skills:
 
 - name: IaC
   logo: /images/sections/skills/download.png
-  summary: "Experienced with CI/CD pipelines and main tools, implementing the DevOps lifecycle as part of an organization and automating Infrastructure as Code with Terraform, Ansible and other tools."
+  summary: "Experienced with CI/CD pipelines and main tools, implementing the DevOps lifecycle as part of an organization and automating Infrastructure as Code with Terraform, AWS Cloud Development Kit (CDK), Ansible and other tools."
   url: "https://aws.amazon.com/devops/what-is-devops/"
 
 - name: Observability
