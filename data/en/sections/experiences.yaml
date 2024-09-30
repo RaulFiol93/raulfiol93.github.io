@@ -26,7 +26,10 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Provide onboarding, enabling and advisory services to support the internal DevSecOps community in adopting best practices of cloud computing and CI/CD automation.
-    - Take care of offering Swisscom’s Cloud Foundation platform and its multiple cloud providers as a fully-integrated, secure and compliant self-service platform in accordance with workload strategic placement policies to all Swisscom internal DevOps teams.
+    - Manage the offering of Swisscom’s Cloud Foundation platform and its multiple cloud providers as a fully-integrated, secure, and compliant self-service platform.
+    - Architecture and provisioning projects on AWS using IaC tools (Terraform and AWS CDK) and ensure alignment with workload strategic placement policies for all Swisscom internal DevOps teams.
+    - Support and operate other internal IaaS private cloud and container orchestration platform offerings.
+    - Definition of CI/CD pipelines on GitLab and AWS Developer Tools to ensure seamless integration and deployment processes. Building GitLab components for template dynamic reusability.
 
 - company:
     name: Centennial College, Applied Research, Innovation and Entrepreneurship Services (ARIES).
