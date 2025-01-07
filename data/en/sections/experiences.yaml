@@ -25,26 +25,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Provide onboarding, enabling and advisory services to support the internal DevSecOps community in adopting best practices of cloud computing and CI/CD automation.
-    - Take care of offering Swisscom’s Cloud Foundation platform and its multiple cloud providers as a fully-integrated, secure and compliant self-service platform in accordance with workload strategic placement policies to all Swisscom internal DevOps teams.
-
-- company:
-    name: Centennial College, Applied Research, Innovation and Entrepreneurship Services (ARIES).
-    url: "https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/about-aries#current-areas-of-activities"
-    location: Toronto, Canada
-    # company overview
-    overview: Centennial is one of Canada's top colleges for research, innovation, and entrepreneurship. Leading Centennial’s applied research activities is the department of Applied Research, Innovation and Entrepreneurship Services (ARIES), bringing students and faculty together to solve practical industry problems, providing real-world experience in the process.
- 
-  positions:
-  - designation: Research Assistant
-    start: Jan 2023
-    end: Feb 2023
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Developed a high-volume production process for IoT device initialization in batches, automating drive and image cloning with Clonezilla and implementing IoT Fleet Management with JFrog Connect, increasing the production to more than 200 devices provisioned per week.
-    - Conducted research on IoT technologies and their potential applications in different fields.
+    - Manage the offering of Swisscom’s Cloud Foundation platform as a fully-integrated, secure, and compliant self-service platform.
+    - Architecture and provisioning projects on AWS using IaC tools (Terraform and AWS CDK) and ensure alignment with workload strategic placement policies for all Swisscom internal DevOps teams.
+    - Support and operate other internal IaaS, PaaS and container orchestration platform offerings.
+    - Definition of CI/CD pipelines on GitLab and AWS Developer Tools to ensure seamless integration and deployment processes. Building GitLab components for template dynamic reusability.
+    - Integrating observability tools and solutions to enable internal teams to create custom alerts and dashboards, enhancing their observability practices.
+    - Support the internal DevSecOps community in adopting best practices of cloud computing and CI/CD automation in general.
   
 - company:
     name: General Software Inc.
@@ -54,15 +40,15 @@ experiences:
     overview: GSI-General Software Inc. is a consulting and software development company with 15 years of experience in Project Outsourcing, Staff Augmentation, Partnership, and IT Consultancy in the North American & European markets. 
   positions:
   - designation: Cloud Data Engineer
-    start: Sept 2021
-    end: Sept 2022
+    start: September 2021
+    end: August 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Designed, built, and maintained Big Data pipelines using Gitlab, Terraform, Bash, Google Cloud Build, Azure DevOps, and AWS CodeBuild, resulting in about a 25% reduction in data processing time.
-    - Utilized distributed parallel batch and streaming data processing and transformation with Python and cloud services such as Google Cloud Dataflow, Apache Beam, Apache Kafka, Pub/Sub, and SQS, resulting in data processing speed.
-    - Created Data Lakes and Data Warehouses as data sinks for further processing and analysis using Google Cloud Storage, Google Big Lake, AWS S3, Azure Data Lake, BigQuery, Redshift, and Azure Synapse Analytics, resulting in a 20% increase in data availability and analysis.  
+    - Designed, built, and maintained Big Data pipelines implementing distributed parallel batch and streaming data processing.
+    - Cloud infrastructure provisioning and management for data engineering solutions.
+    - CI/CD automation and IaC.
 
 - company:
     name: ETECSA
@@ -72,19 +58,15 @@ experiences:
               They guarantee the provision of fixed, mobile, data, internet and cloud services.
   positions:
   - designation: Cloud Data Center Engineer
-    start: Sept 2018
-    end: Sept 2021
+    start: September 2018
+    end: September 2021
     responsibilities:
     - Managed the installation, configuration, and maintenance of physical servers, switches, routers, firewalls, and storage arrays across multiple data centers, ensuring high availability and uptime for critical applications and services.
-    - Oversaw the deployment and management of virtualized infrastructure using VMware vSphere, Huawei Fusion Sphere OpenStack, and VMware Cloud Director, enabling faster provisioning and scaling of resources for development and testing teams.
-    - Implemented Kubernetes clusters for container orchestration and management, improving the deployment and scalability of microservices-based applications.
-    - Collaborated with development teams to create testing, delivery, and deployment pipelines using AWS, GCP, and Azure, resulting in faster and more efficient delivery of internal and user-facing applications.
-    - Infrastructure as Code development using Terraform, Ansible, bash and python scripting.
+    - Oversaw the deployment and management of virtual and cloud infrastructure.
+    - Implemented Kubernetes clusters for container orchestration and management.
+    - Collaborated with development teams to create testing, delivery, and deployment pipelines.
     - Conducted regular audits of infrastructure and applications to identify and address security vulnerabilities, ensuring compliance with industry standards and best practices.
-    - Automated the physical IT infrastructure administration using Terraform, Ansible, Bash, and Python scripting, resulting in a 40% increase in efficiency and time savings.
-    - Adopted GitOps for infrastructure deployment using GitLab self-hosted, resulting in a 50% reduction in deployment time.
-    - Improved monitoring and observability of all infrastructure in three data centers, utilizing Elasticsearch, Kibana, Grafana, and Prometheus, and reducing response time to infrastructure incidents by 70% compared to other more traditional and propietary tools like Nagios, CheckMK and Huawei eSight.
-    - Implemented on-premises data-center backup solution, providing a reliable and efficient data backup and restore solution, resulting in a 100% data restoration success rate.
+    - Automated the physical IT infrastructure administration using scripting and Infrastructure as Code.
 
 - company:
     name: EPROYIV
@@ -93,8 +75,8 @@ experiences:
     overview: EPROYIV is responsible for Project Design and Management for Construction Services and Construction business activities. It specializes in the tourism and hotel industry in Cuba.
   positions:
   - designation: Communications/IT Solutions Architect Jr
-    start: Sep 2017
-    end:  Sep 2018
+    start: September 2017
+    end:  September 2018
     responsibilities:
     - Architected traditional telephony communications networks, reducing downtime.
     - Designed and implemented IT infrastructure and network design for client needs, resulting in increase of customer satisfaction.
