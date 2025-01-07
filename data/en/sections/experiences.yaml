@@ -15,11 +15,11 @@ experiences:
     url: "https://www.swisscom.ch/en/about/company.html"
     location: Rotterdam, The Netherlands
     # company overview
-    overview: As the leading ICT company in Switzerland and the number 2 in Italy with its subsidiary Fastweb S.p.A., Swisscom is a provider of mobile, Internet, TV and comprehensive IT services for residential and business customers.
+    overview: As the leading ICT company in Switzerland and the number 2 in Italy with the acquisition of Fastweb + Vodafone, Swisscom is a provider of mobile, Internet, TV and comprehensive IT services for residential and business customers.
 
   positions:
   - designation: DevOps Engineer
-    start: Sep 2023
+    start: September 2023
     # end: Feb 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
