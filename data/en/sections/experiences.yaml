@@ -26,12 +26,12 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Manage the offering of Swisscom’s Cloud Foundation platform as a fully-integrated, secure, and compliant self-service platform.
-    - Architecture and provisioning projects on AWS using IaC tools (Terraform and AWS CDK) and ensure alignment with workload strategic placement policies for all Swisscom internal DevOps teams.
-    - Support and operate other internal IaaS, PaaS and container orchestration platform offerings.
+    - Architecting solutions (greenfield and migration projects) for achieving highly scalable distributed systems on our  internal cloud platforms and provisioning of these using automation and IaC tools (Terraform and AWS CDK), ensuring alignment with workload strategic placement policies for all Swisscom internal DevOps teams.
+    - Support, operation and incident management of other internal IaaS, PaaS and container orchestration platform offerings (VMware, CloudFoundry, Kubermatics, AWS)
     - Definition of CI/CD pipelines on GitLab and AWS Developer Tools to ensure seamless integration and deployment processes. Building GitLab components for template dynamic reusability.
-    - Integrating observability tools and solutions to enable internal teams to create custom alerts and dashboards, enhancing their observability practices.
-    - Support the internal DevSecOps community in adopting best practices of cloud computing and CI/CD automation in general.
-  
+    - Integrating internal observability tools based on most used open source  observability tools (Cortex/Prometheus, Loki, Tempo, Alloy, Beyla) to enable internal teams to create custom alerts and dashboards to enhance their observability and incident response practices.
+
+
 - company:
     name: General Software Inc.
     url: "https://generalsoftwareinc.com/"
@@ -46,9 +46,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Designed, built, and maintained Big Data pipelines implementing distributed parallel batch and streaming data processing.
-    - Cloud infrastructure provisioning and management for data engineering solutions.
-    - CI/CD automation and IaC.
+    - Designed, built, and maintained Big Data pipelines implementing distributed parallel batch and streaming data processing with python libraries and other frameworks like Apache Flink and Apache Beam.
+    - Cloud infrastructure provisioning and management for data engineering solutions (data lakes, data warehouses, Dataflow clusters, BigQuery, Azure Data Factory) on Google Cloud Platform and Microsoft Azure.
 
 - company:
     name: ETECSA
@@ -61,12 +60,11 @@ experiences:
     start: September 2018
     end: September 2021
     responsibilities:
-    - Managed the installation, configuration, and maintenance of physical servers, switches, routers, firewalls, and storage arrays across multiple data centers, ensuring high availability and uptime for critical applications and services.
-    - Oversaw the deployment and management of virtual and cloud infrastructure.
+    - Managed the installation, configuration, and maintenance of physical servers, switches, routers, firewalls, and storage arrays from multiple vendors (Huawei, HPE) across multiple data centers, ensuring high availability and uptime for critical applications and services.
+    - Management and monitoring of virtual and cloud infrastructure in on-prem, private and public (VMware Cloud Director, OpenStack).
     - Implemented Kubernetes clusters for container orchestration and management.
     - Collaborated with development teams to create testing, delivery, and deployment pipelines.
     - Conducted regular audits of infrastructure and applications to identify and address security vulnerabilities, ensuring compliance with industry standards and best practices.
-    - Automated the physical IT infrastructure administration using scripting and Infrastructure as Code.
 
 - company:
     name: EPROYIV
@@ -78,6 +76,4 @@ experiences:
     start: September 2017
     end:  September 2018
     responsibilities:
-    - Architected traditional telephony communications networks, reducing downtime.
-    - Designed and implemented IT infrastructure and network design for client needs, resulting in increase of customer satisfaction.
-    - Architected security systems for fire and intrusion detection, improving overall security and compliance standards.
+    - Architect IT infrastructure and communication network solutions for client needs.
